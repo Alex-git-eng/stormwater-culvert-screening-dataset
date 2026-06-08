@@ -30,6 +30,11 @@ The file structure and parameter ranges were designed to be technically plausibl
 
 This repository is released under the CC0 1.0 Universal Public Domain Dedication. The files may be copied, modified, distributed, and used for any purpose, including commercial use, without permission.
 
-## Data-use note
+## Data-quality notice
 
-Because the dataset is synthetic, it must not be used for real infrastructure design, regulatory reporting, public-safety decisions, flood-risk assessment, asset-maintenance planning, or engineering certification. It is intended only for controlled testing, benchmarking, training, and evaluation.
+This dataset is synthetic and does not represent real infrastructure assets, real field measurements, municipal records, public-agency files, private property, or confidential operational data. The files are provided for controlled testing, benchmarking, training, and evaluation of rule-based reconciliation workflows.
+
+The dataset is not validated for engineering design, regulatory reporting, public-safety decisions, flood-risk assessment, asset-maintenance planning, or engineering certification. Any real-world engineering, regulatory, or safety use requires independent professional verification with appropriate site-specific data and applicable standards.
+
+This notice is informational only and does not modify the CC0 1.0 Universal Public Domain Dedication stated in the `LICENSE` file.
+
