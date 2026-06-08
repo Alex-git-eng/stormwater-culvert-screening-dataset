@@ -1,0 +1,31 @@
+log_id,asset_id,log_date,record_type,evidence_source,storm_event_id,storm_return_period_years,rainfall_depth_mm_24h,road_overtopping_confirmed,observed_backwater_depth_m,observed_blockage_percent,maintenance_action,work_order_id,work_order_status,action_completed_date,post_action_blockage_percent,cctv_required,cctv_completed_date,source_reliability_rank,event_note
+LOG-001,CUL-004,05/04/2025,maintenance_closure,maintenance crew,,,,No,0.12,10,sediment removal,WO-250401,Closed,05/04/2025,10,No,,3,Sediment removed after March inspection.
+LOG-002,CUL-006,12/04/2025,storm_response,field crew,ST-2025-0412,5,54,No,0.52,50,inspection requested,WO-250422,Open,,,Yes,,2,Standing water observed after storm; no roadway overtopping recorded.
+LOG-003,CUL-009,12/04/2025,storm_response,field crew,ST-2025-0412,10,68,Yes,0.74,60,priority clean and outlet repair,WO-250423,Open,,,Yes,,2,Lane-edge ponding and outlet erosion observed during storm patrol.
+LOG-004,CUL-010,08/04/2025,maintenance_closure,maintenance crew,,,,No,0.18,15,sediment removal,WO-250405,Closed,08/04/2025,15,No,,3,Routine cleaning completed after March inspection.
+LOG-005,CUL-012,12/04/2025,storm_response,field crew,ST-2025-0412,10,68,Yes,1.05,70,emergency debris removal,WO-250424,Open,,,Yes,,2,Known nuisance location overtopped during the storm event.
+LOG-006,CUL-014,02/04/2025,geometry_verification,engineering technician,,,,No,0.16,20,none,WO-250406,Closed,02/04/2025,,No,,1,Field sketch records a circular 900 mm barrel.
+LOG-007,CUL-016,12/04/2025,public_complaint_screened,resident call screened by drainage desk,ST-2025-0412,5,54,No,0.82,75,inspection requested,WO-250425,Open,,,Yes,,4,Yard flooding reported; roadway overtopping was not confirmed by field staff.
+LOG-008,CUL-019,03/04/2025,maintenance_closure,maintenance crew,,,,No,0.05,12,leaf and sediment removal,WO-250407,Closed,03/04/2025,12,No,,3,Cleaning completed after the March inspection.
+LOG-009,CUL-021,05/04/2025,geometry_follow_up,engineering technician,,,,No,0.34,31,survey follow-up,WO-250408,Open,,,No,,1,No safe access to complete box-dimension survey.
+LOG-010,CUL-022,05/04/2025,geometry_follow_up,engineering technician,,,,No,0.2,26,survey follow-up,WO-250409,Open,,,No,,1,No safe access to complete box-dimension survey.
+LOG-011,CUL-024,12/04/2025,storm_response,field crew,ST-2025-0412,10,68,Yes,1.15,70,emergency debris removal,WO-250426,Open,,,Yes,,2,Overtopping and corroded outlet invert observed during storm patrol.
+LOG-012,CUL-026,12/04/2025,storm_response,field crew,ST-2025-0412,5,54,Yes,0.77,55,routine cleaning,WO-250427,Open,,,Yes,,2,Storm patrol confirmed recurring complaint location.
+LOG-013,CUL-028,06/04/2025,geometry_follow_up,engineering technician,,,,No,0.05,15,invert survey follow-up,WO-250410,Open,,,No,,1,Downstream invert recheck requested.
+LOG-014,CUL-030,12/04/2025,storm_response,field crew,ST-2025-0412,10,68,Yes,1.34,85,emergency debris removal,WO-250428,Open,,,Yes,,2,Inlet nearly submerged and one lane overtopped during storm patrol.
+LOG-015,CUL-030,14/04/2025,maintenance_closure,maintenance crew,,,,No,0.62,30,emergency debris removal,WO-250428,Closed,14/04/2025,30,Yes,,3,Emergency cleaning reduced blockage but residual sediment remained.
+LOG-016,CUL-032,09/04/2025,maintenance_closure,maintenance crew,,,,No,0.11,18,sediment removal,WO-250411,Closed,09/04/2025,18,No,,3,Routine cleaning completed after March inspection.
+LOG-017,CUL-033,12/04/2025,storm_response,field crew,ST-2025-0412,10,68,Yes,1.05,52,CCTV inspection requested,WO-250429,Open,,,Yes,,2,Backwater reached the edge of pavement during storm patrol.
+LOG-018,CUL-037,12/04/2025,storm_response,field crew,ST-2025-0412,5,54,Yes,0.9,64,priority clean and corrosion review,WO-250430,Open,,,Yes,,2,Industrial yard drainage overtopped curb line during storm patrol.
+LOG-019,CUL-039,11/04/2025,maintenance_closure,maintenance crew,,,,No,0.22,22,leaf removal,WO-250412,Closed,11/04/2025,22,No,,3,Cleaning completed with residual leaf material observed.
+LOG-020,CUL-042,12/04/2025,storm_response,field crew,ST-2025-0412,10,68,Yes,1.21,82,emergency clean and safety closure,WO-250431,Open,,,Yes,,2,Trail crossing overtopped and outlet was submerged.
+LOG-021,CUL-041,10/04/2025,inspection_follow_up,maintenance inspector,,,,No,0.24,42,monitor and recheck,WO-250413,Open,,,No,,3,Sediment and grass remain at inlet; no storm overtopping confirmed.
+LOG-022,CUL-006,18/04/2025,cctv_follow_up,CCTV contractor,,,,No,0.44,45,cleaning recommended,WO-250422,Open,,,Yes,18/04/2025,1,CCTV confirmed partial sediment deposit; no structural collapse observed.
+LOG-023,CUL-024,18/04/2025,maintenance_closure,maintenance crew,,,,No,0.26,18,emergency debris removal,WO-250426,Closed,18/04/2025,18,Yes,,3,Emergency cleaning completed after overtopping event; outlet corrosion remains for review.
+LOG-024,CUL-026,19/04/2025,maintenance_update,maintenance scheduler,,,,No,0.58,55,cleaning scheduled,WO-250427,Scheduled,,,Yes,,3,Cleaning scheduled but no completion date recorded.
+LOG-025,CUL-037,19/04/2025,maintenance_update,maintenance scheduler,,,,No,0.74,61,work order scope review,WO-250430,Open,,,Yes,,3,Cleaning scope awaiting confined-space review.
+LOG-026,CUL-042,19/04/2025,maintenance_update,maintenance scheduler,,,,Yes,1.05,80,emergency clean pending,WO-250431,Open,,,Yes,,3,Trail closure remained in place during the latest maintenance update.
+LOG-027,CUL-020,03/04/2025,maintenance_closure,maintenance crew,,,,No,0,0,route inspection,WO-250414,Closed,03/04/2025,0,No,,3,Adjacent to cleaned CUL-019; no action needed.
+LOG-028,CUL-005,07/04/2025,maintenance_closure,maintenance crew,,,,No,0.12,12,trash rack clearing,WO-250415,Closed,07/04/2025,12,No,,3,Small debris removed from inlet rack.
+LOG-029,CUL-033,20/04/2025,cctv_update,CCTV scheduler,,,,No,0.9,52,CCTV inspection pending,WO-250429,Scheduled,,,Yes,,3,CCTV request remains scheduled.
+LOG-030,CUL-012,19/04/2025,maintenance_closure,maintenance crew,,,,No,0.46,28,temporary debris removal,WO-250424,Closed,19/04/2025,28,Yes,,3,Temporary cleaning completed with residual obstruction observed.

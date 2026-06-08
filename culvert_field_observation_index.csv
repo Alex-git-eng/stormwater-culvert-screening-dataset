@@ -1,0 +1,33 @@
+observation_id,asset_id,observation_date,observer_role,observation_method,photo_reference,inlet_blockage_percent,outlet_blockage_percent,sediment_depth_mm,inlet_damage_class,outlet_erosion_class,barrel_accessibility,measurement_quality,measured_diameter_mm,measured_span_mm,measured_rise_mm,field_high_water_mark,field_overtopping_evidence,field_backwater_depth_m,immediate_safety_concern,observation_note
+OBS-001,CUL-001,01/04/2025,maintenance inspector,field visit,IMG-CUL-001-A,10,5,20,None,None,Full,Good,600,,,No,No,0.04,No,Clear barrel view from inlet apron.
+OBS-002,CUL-004,04/04/2025,maintenance inspector,field visit,IMG-CUL-004-A,32,18,110,Minor,Minor,Partial,Good,900,,,No,No,0.16,No,Sediment shelf observed along inlet invert.
+OBS-003,CUL-006,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-006-A,52,38,170,Minor,Moderate,Partial,Fair,1200,,,Yes,No,0.5,No,Standing water observed at outlet apron.
+OBS-004,CUL-009,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-009-A,62,48,210,Moderate,Moderate,Partial,Fair,750,,,Yes,Yes,0.76,No,Water staining visible on upstream headwall.
+OBS-005,CUL-010,09/04/2025,maintenance inspector,post-cleaning check,IMG-CUL-010-A,14,12,40,None,Minor,Full,Good,,1500,1000,No,No,0.17,No,Sediment observed along inlet invert.
+OBS-006,CUL-012,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-012-A,72,55,240,Moderate,Moderate,Partial,Fair,1050,,,Yes,Yes,1.02,Yes,Debris line visible near inlet springline.
+OBS-007,CUL-014,02/04/2025,engineering technician,dimension check,IMG-CUL-014-A,20,10,55,None,None,Full,Good,900,,,No,No,0.15,No,Field sketch and tape reading available.
+OBS-008,CUL-016,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-016-A,76,58,260,None,Minor,Partial,Fair,600,,,Yes,No,0.8,No,Leaf mat observed across inlet opening.
+OBS-009,CUL-019,04/04/2025,maintenance inspector,post-cleaning check,IMG-CUL-019-A,12,8,25,None,None,Full,Good,525,,,No,No,0.05,No,Inlet screen area visible during follow-up visit.
+OBS-010,CUL-021,05/04/2025,engineering technician,access-limited survey,IMG-CUL-021-A,31,25,95,Minor,Minor,Limited,Poor,,,1200,No,No,0.34,No,Vegetation and traffic control limited the inlet survey.
+OBS-011,CUL-022,05/04/2025,engineering technician,access-limited survey,IMG-CUL-022-A,26,18,70,None,None,Limited,Poor,,1800,,No,No,0.2,No,Outlet access was restricted during the survey window.
+OBS-012,CUL-024,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-024-A,74,62,280,Moderate,Severe,Partial,Fair,1350,,,Yes,Yes,1.18,Yes,Debris accumulation and outlet corrosion were visible.
+OBS-013,CUL-024,19/04/2025,maintenance inspector,post-cleaning check,IMG-CUL-024-B,18,15,60,Moderate,Severe,Partial,Fair,1350,,,No,No,0.26,No,Outlet defect visible during follow-up visit.
+OBS-014,CUL-026,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-026-A,57,45,190,Minor,Moderate,Partial,Fair,750,,,Yes,Yes,0.78,No,Debris and sediment were present at the inlet face.
+OBS-015,CUL-028,06/04/2025,engineering technician,invert check,IMG-CUL-028-A,15,10,35,None,None,Full,Fair,,900,750,No,No,0.05,No,Invert reading logged during field visit.
+OBS-016,CUL-030,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-030-A,84,70,320,Moderate,Moderate,Limited,Fair,1200,,,Yes,Yes,1.36,Yes,Inlet obstruction and headwall staining observed.
+OBS-017,CUL-030,15/04/2025,maintenance inspector,post-cleaning check,IMG-CUL-030-B,30,25,130,Moderate,Moderate,Partial,Fair,1200,,,Yes,No,0.62,No,Sediment deposit observed during follow-up visit.
+OBS-018,CUL-032,10/04/2025,maintenance inspector,post-cleaning check,IMG-CUL-032-A,18,10,45,None,None,Full,Good,600,,,No,No,0.11,No,Inlet invert visible during follow-up visit.
+OBS-019,CUL-033,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-033-A,54,48,210,Minor,Moderate,Partial,Fair,,1500,900,Yes,Yes,1.04,No,Water level observed near pavement edge.
+OBS-020,CUL-034,03/04/2025,maintenance inspector,field visit,IMG-CUL-034-A,18,12,40,None,Minor,Full,Good,,1800,1100,No,No,0.14,No,Outlet vegetation was outside the barrel opening.
+OBS-021,CUL-037,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-037-A,64,52,230,Moderate,Severe,Partial,Fair,900,,,Yes,Yes,0.92,No,Water observed at curb line near industrial crossing.
+OBS-022,CUL-039,12/04/2025,maintenance inspector,post-cleaning check,IMG-CUL-039-A,22,15,60,None,None,Full,Good,375,,,No,No,0.22,No,Leaf material observed near inlet lip.
+OBS-023,CUL-041,10/04/2025,maintenance inspector,field visit,IMG-CUL-041-A,42,35,130,None,Minor,Partial,Fair,450,,,No,No,0.24,No,Grass and fine sediment were present at the inlet.
+OBS-024,CUL-042,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-042-A,82,68,310,Moderate,Moderate,Limited,Fair,,1200,750,Yes,Yes,1.22,Yes,Temporary barrier observed near culvert inlet.
+OBS-025,CUL-005,07/04/2025,maintenance inspector,post-maintenance check,IMG-CUL-005-A,12,6,30,None,None,Full,Good,,1800,1200,No,No,0.12,No,Trash rack observed clear during routine visit.
+OBS-026,CUL-008,02/04/2025,maintenance inspector,field visit,IMG-CUL-008-A,30,20,90,None,Minor,Partial,Good,,1300,900,No,No,0.21,No,Leaf material was observed at the inlet edge.
+OBS-027,CUL-018,13/04/2025,storm patrol inspector,post-storm field visit,IMG-CUL-018-A,48,44,160,Minor,Moderate,Partial,Fair,900,,,Yes,Unknown,0.53,No,Ponded water was present in the downstream ditch.
+OBS-028,CUL-020,04/04/2025,maintenance inspector,route inspection,IMG-CUL-020-A,0,0,0,None,None,Full,Good,450,,,No,No,0,No,No obstruction observed during route inspection.
+OBS-029,CUL-023,01/04/2025,maintenance inspector,field visit,IMG-CUL-023-A,20,18,75,None,Moderate,Partial,Good,1800,,,No,No,0.25,No,Riprap displacement noted at the outlet apron.
+OBS-030,CUL-035,04/04/2025,maintenance inspector,field visit,IMG-CUL-035-A,34,28,115,Minor,None,Partial,Good,1500,,,No,No,0.38,No,Sediment berm observed upstream of inlet apron.
+OBS-031,CUL-036,04/04/2025,maintenance inspector,field visit,IMG-CUL-036-A,12,8,30,None,None,Full,Good,,3000,1800,No,No,0.17,No,Large box culvert was visible from both approaches.
+OBS-032,CUL-038,05/04/2025,maintenance inspector,field visit,IMG-CUL-038-A,24,18,65,Minor,Minor,Full,Good,1050,,,No,No,0.19,No,Minor scour was observed downstream of the outlet.
